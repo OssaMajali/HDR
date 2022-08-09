@@ -1,3 +1,4 @@
+<b><h1 style="text-align:center ;  font-family: 'Times New Roman', Times, serif ; color: #C8AD7F" > Handwritten Digit Recognition using CNN.</h1></b>
 <b><h3 style="text-align:center ;  font-family: 'Times New Roman', Times, serif ; color: #C8AD7F" > Introduction :</h3></b>
 <p style="font-family: 'Times New Roman'; text-align:justify">
 À l’ère actuelle de la digitalisation, la reconnaissance de l’écriture manuscrite joue un rôle important dans le traitement de l’information. D’ailleurs, de nombreuses informations / données sont disponibles sur papier, alors que le traitement des fichiers numériques est moins cher que le traitement des dossiers papier traditionnels.
