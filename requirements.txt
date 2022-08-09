@@ -7,4 +7,5 @@ matplotlib==3.1.1
 plotly==4.14.3
 plotly-express==0.4.1
 numpy==1.20
-opencv-python==4.1.0.25
+opencv-python-headless==4.1.0.25
+
