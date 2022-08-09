@@ -30,6 +30,3 @@ Dans ce travail, nous utiliserons les images de la banque MNIST
     
 </p>
 
-<b><h3 style="text-align:left ;  font-family: 'Times New Roman', Times, serif ; color: #C8AD7F" >Environnement Python dédié</h3></b>
-
-
